@@ -2,11 +2,11 @@
 
 [InovaFarmaWebApi]
 Name = InovaFarmaWebApi
-ProductVersion = 1.1.11.0
-URL = https://github.com/precisaosistemas/inovafarma-api/releases/download/v1.1.11/InovaFarmaWebApi.exe
-Size = 36001427
-MD5 = cb2681a284dc8eb988d9c007ca2b5a69
+ProductVersion = 1.1.12.0
+URL = https://github.com/precisaosistemas/inovafarma-api/releases/download/v1.1.12/InovaFarmaWebApi.exe
+Size = 35998655
+MD5 = 75e791bea680aecd7219e15425159352
 ServerFileName = InovaFarmaWebApi.exe
 Flags = SilentInstall|Sys64
 RegistryKey = HKUD\Software\InovaFarma\InovaFarmaWebApi\Version
-Version = 1.1.11.0
+Version = 1.1.12.0
