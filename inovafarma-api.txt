@@ -8,5 +8,5 @@ Size = 13927640
 MD5 = 775C0B968F2D009D1B63EEF8D05039F0
 ServerFileName = inovafarma-api-2.3.2.exe
 Flags = SilentInstall
-RegistryKey = HKUD\Software\Precisão Sistemas\INOVAFARMA API\Version
+RegistryKey = HKUD\Software\Precisao Sistemas\INOVAFARMA API\Version
 Version = 2.3.2
