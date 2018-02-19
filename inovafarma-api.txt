@@ -3,7 +3,7 @@
 [InovaFarmaAPI Updater]
 Name = INOVAFARMA API
 ProductVersion = 2.3.0
-URL = http://www.example.com/downloads/inovafarma-api-2.3.0.exe
+URL = https://github.com/precisaosistemas/inovafarma-api/releases/download/v2.3.0/inovafarma-api-2.3.0.exe
 Size = 13927536
 MD5 = da9231e0e82d96cc61cff76d3edf5104
 ServerFileName = inovafarma-api-2.3.0.exe
