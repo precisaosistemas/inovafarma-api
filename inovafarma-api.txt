@@ -5,7 +5,7 @@ Name = INOVAFARMA API
 ProductVersion = 2.3.3
 URL = https://github.com/precisaosistemas/inovafarma-api/releases/download/v2.3.3/inovafarma-api-2.3.3.exe
 Size = 13920064
-MD5 = @{Algorithm=MD5; Hash=B996D0ACF0DA6822D99609116AB5E137; Path=C:\agent\_work\r4\a\inovafarma-api\artifact\inovafarma-api-2.3.3.exe}.Hash
+MD5 = Microsoft.PowerShell.Commands.Internal.Format.FormatStartData Microsoft.PowerShell.Commands.Internal.Format.GroupStartData Microsoft.PowerShell.Commands.Internal.Format.FormatEntryData Microsoft.PowerShell.Commands.Internal.Format.GroupEndData Microsoft.PowerShell.Commands.Internal.Format.FormatEndData.Hash
 ServerFileName = inovafarma-api-2.3.3.exe
 Flags = SilentInstall
 RegistryKey = HKUD\Software\Precisao Sistemas\INOVAFARMA API\Version
