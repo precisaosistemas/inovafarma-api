@@ -8,6 +8,6 @@ Size = 13921928
 MD5 = 8ebac3c026afdffaf771a9bf2a961aad
 CommandLine = /exenoui /qn
 ServerFileName = inovafarma-api-2.3.5.exe
-Flags = SilentInstall
+Flags = SilentInstall|NoRedetect
 RegistryKey = HKUD\Software\Precisao Sistemas\INOVAFARMA API\Version
 Version = 2.3.5
