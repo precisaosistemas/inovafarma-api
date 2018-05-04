@@ -2,12 +2,12 @@
 
 [Update]
 Name = INOVAFARMA API
-ProductVersion = 2.7.0
-URL = https://github.com/precisaosistemas/inovafarma-api/releases/download/v2.7.0/inovafarma-api-2.7.0.exe
-Size = 14224208
-MD5 = 437d26054f12f842ddabf62f2ac601db
+ProductVersion = 2.8.0
+URL = https://github.com/precisaosistemas/inovafarma-api/releases/download/v2.8.0/inovafarma-api-2.8.0.exe
+Size = 22812128
+MD5 = 706d2ae2e15566a50766b745effe5812
 CommandLine = /exenoui /qn
-ServerFileName = inovafarma-api-2.7.0.exe
+ServerFileName = inovafarma-api-2.8.0.exe
 Flags = SilentInstall|NoRedetect
 RegistryKey = HKUD\Software\Precisao Sistemas\INOVAFARMA API\Version
-Version = 2.7.0
+Version = 2.8.0
