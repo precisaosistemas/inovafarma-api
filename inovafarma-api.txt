@@ -3,7 +3,7 @@
 [Update]
 Name = INOVAFARMA API
 ProductVersion = 2.15.0
-URL = https://github.com/precisaosistemas/inovafarma-api/releases/download/v2.15.0/inovafarma-api-2.15.0.exe
+URL = https://github.com/precisaosistemas/inovafarma-api/releases/download/v2.15.0/inovafarma-api-2.15.01111.exe
 Size = 24881528
 MD5 = 59d0f8ceb04b3c27d024f3a43516a70d
 CommandLine = /exenoui /qn
